@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  contents: MyText
+  intro: MyString
+  outro: MyString
+  recommend: 1
+  hits: 1
+
+two:
+  title: MyString
+  contents: MyText
+  intro: MyString
+  outro: MyString
+  recommend: 1
+  hits: 1
